@@ -1,0 +1,16 @@
+.project{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(235, 146, 183);
+}
+h1{
+    font-size: xx-large;
+    color: darkblue;
+}
+p{
+    color: darkmagenta;
+    font-size: x-large;
+}
+#img{
+padding-left: 130px;
+}
